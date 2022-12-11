@@ -494,7 +494,7 @@ a, a:hover {
 }
 
 .mry-app .mry-top-panel .mry-logo-frame {
-	background-color: #141414;
+	background-color: transparent;
 	display: block;
 	display: flex;
 	justify-content: flex-start;
@@ -1059,7 +1059,7 @@ html.is-animating .transition-fade .mry-loading-curtain {
 	.mry-project-slider-item .mry-project-frame .mry-main-title-frame .mry-main-title {
 		margin-left: -15px;
 		padding: 40px;
-		background-color: #141414;
+		background-color: #141414b8;
 		width: 100%;
 		max-width: 430px;
 	}
